@@ -10,3 +10,5 @@
  * Implantação do sistema na nuvem através do Heroku 
 
  **Obs:** durante o desenvolvimento do sistema foi utilizado o banco de dados em memória H2, mas neste projeto, fiz a substituição do mesmo pelo postgresSQL.
+
+ Link da Api no heroku: [Registration Person API](https://people-registration-api.herokuapp.com/api/v1/people)
